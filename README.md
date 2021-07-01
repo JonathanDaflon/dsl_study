@@ -1,3 +1,3 @@
 # Framework Base
 
-Base de framework de automação
+Framework de base para outras automações
